@@ -5,8 +5,8 @@
 
 ### Features
 
-- **Dynamic Size**: Unlike regular arrays, `ArrayList` automatically adjusts its size as elements are added or removed.
-- **Random Access**: Elements in `ArrayList` can be accessed directly using an index.
+- **Dynamic Size**: Unlike regular arrays, `ArrayList` automatically adjusts size as elements are added or removed.
+- **Random Access**: An index can access elements in `ArrayList` directly.
 - **Flexible Operations**: `ArrayList` provides various methods to add, remove, and modify elements, making it versatile for data manipulation.
 
 ### Usage
@@ -15,3 +15,5 @@ To use `ArrayList`, you need to import the `java.util` package:
 
 ```java
 import java.util.ArrayList;
+
+This is an implementation of the ArrayList from scratch to understand the complexity of each function and how each built-in function works. 
