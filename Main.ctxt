@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ singleInput()
+comment3.params=
+comment3.target=void\ doubleInput()
+comment4.params=
+comment4.target=void\ set()
+comment5.params=
+comment5.target=void\ printList()
+comment6.params=
+comment6.target=void\ get()
+comment7.params=
+comment7.target=void\ remove()
+comment8.params=
+comment8.target=void\ mainMenu()
+numComments=9

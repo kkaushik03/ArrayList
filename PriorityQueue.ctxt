@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment1.params=
+comment1.target=PriorityQueue()
+comment10.params=childIndex\ parentIndex
+comment10.target=void\ swap(int,\ int)
+comment2.params=item
+comment2.target=void\ add(java.lang.Object)
+comment3.params=
+comment3.target=void\ heapUp()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+comment6.params=
+comment6.target=java.lang.Object\ remove()
+comment7.params=
+comment7.target=void\ heapDown()
+comment8.params=current
+comment8.target=boolean\ hasLeft(int)
+comment9.params=current
+comment9.target=boolean\ hasRight(int)
+numComments=11
